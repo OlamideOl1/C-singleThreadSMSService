@@ -1,0 +1,16 @@
+c:\users\oolaoye\documents\visual studio 2015\Projects\SMSSingleThreadService\SMSSingleThreadService\bin\Release\SMSSingleThreadService.exe.config
+c:\users\oolaoye\documents\visual studio 2015\Projects\SMSSingleThreadService\SMSSingleThreadService\bin\Release\WinSCP.exe
+c:\users\oolaoye\documents\visual studio 2015\Projects\SMSSingleThreadService\SMSSingleThreadService\bin\Release\SMSSingleThreadService.exe.manifest
+c:\users\oolaoye\documents\visual studio 2015\Projects\SMSSingleThreadService\SMSSingleThreadService\bin\Release\SMSSingleThreadService.application
+c:\users\oolaoye\documents\visual studio 2015\Projects\SMSSingleThreadService\SMSSingleThreadService\bin\Release\SMSSingleThreadService.exe
+c:\users\oolaoye\documents\visual studio 2015\Projects\SMSSingleThreadService\SMSSingleThreadService\bin\Release\SMSSingleThreadService.pdb
+c:\users\oolaoye\documents\visual studio 2015\Projects\SMSSingleThreadService\SMSSingleThreadService\obj\Release\SMSSingleThreadService.csprojResolveAssemblyReference.cache
+c:\users\oolaoye\documents\visual studio 2015\Projects\SMSSingleThreadService\SMSSingleThreadService\obj\Release\SMSSingleThreadService.ProjectInstaller.resources
+c:\users\oolaoye\documents\visual studio 2015\Projects\SMSSingleThreadService\SMSSingleThreadService\obj\Release\SMSSingleThreadService.Properties.Resources.resources
+c:\users\oolaoye\documents\visual studio 2015\Projects\SMSSingleThreadService\SMSSingleThreadService\obj\Release\SMSSingleThreadService.UploadService.resources
+c:\users\oolaoye\documents\visual studio 2015\Projects\SMSSingleThreadService\SMSSingleThreadService\obj\Release\SMSSingleThreadService.csproj.GenerateResource.Cache
+c:\users\oolaoye\documents\visual studio 2015\Projects\SMSSingleThreadService\SMSSingleThreadService\obj\Release\SMSSingleThreadService.TrustInfo.xml
+c:\users\oolaoye\documents\visual studio 2015\Projects\SMSSingleThreadService\SMSSingleThreadService\obj\Release\SMSSingleThreadService.exe.manifest
+c:\users\oolaoye\documents\visual studio 2015\Projects\SMSSingleThreadService\SMSSingleThreadService\obj\Release\SMSSingleThreadService.application
+c:\users\oolaoye\documents\visual studio 2015\Projects\SMSSingleThreadService\SMSSingleThreadService\obj\Release\SMSSingleThreadService.exe
+c:\users\oolaoye\documents\visual studio 2015\Projects\SMSSingleThreadService\SMSSingleThreadService\obj\Release\SMSSingleThreadService.pdb

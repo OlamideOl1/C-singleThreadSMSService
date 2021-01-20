@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SMSSingleThreadService.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Interval" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">29</Value>
+    </Setting>
+    <Setting Name="IntervalDescription" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">s</Value>
+    </Setting>
+    <Setting Name="StartImmediately" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ProgramName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">WINDOWS.SMS.TEMP.TO.SEND</Value>
+    </Setting>
+    <Setting Name="ParallelTask" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="TafjBinDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\TAFJ\bin</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

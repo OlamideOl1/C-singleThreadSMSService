@@ -1,0 +1,16 @@
+c:\users\oolaoye\documents\visual studio 2015\Projects\SMSSingleThreadService\SMSSingleThreadService\bin\Debug\SMSSingleThreadService.exe.config
+c:\users\oolaoye\documents\visual studio 2015\Projects\SMSSingleThreadService\SMSSingleThreadService\bin\Debug\WinSCP.exe
+c:\users\oolaoye\documents\visual studio 2015\Projects\SMSSingleThreadService\SMSSingleThreadService\bin\Debug\SMSSingleThreadService.exe.manifest
+c:\users\oolaoye\documents\visual studio 2015\Projects\SMSSingleThreadService\SMSSingleThreadService\bin\Debug\SMSSingleThreadService.application
+c:\users\oolaoye\documents\visual studio 2015\Projects\SMSSingleThreadService\SMSSingleThreadService\bin\Debug\SMSSingleThreadService.exe
+c:\users\oolaoye\documents\visual studio 2015\Projects\SMSSingleThreadService\SMSSingleThreadService\bin\Debug\SMSSingleThreadService.pdb
+c:\users\oolaoye\documents\visual studio 2015\Projects\SMSSingleThreadService\SMSSingleThreadService\obj\Debug\SMSSingleThreadService.csprojResolveAssemblyReference.cache
+c:\users\oolaoye\documents\visual studio 2015\Projects\SMSSingleThreadService\SMSSingleThreadService\obj\Debug\SMSSingleThreadService.ProjectInstaller.resources
+c:\users\oolaoye\documents\visual studio 2015\Projects\SMSSingleThreadService\SMSSingleThreadService\obj\Debug\SMSSingleThreadService.Properties.Resources.resources
+c:\users\oolaoye\documents\visual studio 2015\Projects\SMSSingleThreadService\SMSSingleThreadService\obj\Debug\SMSSingleThreadService.UploadService.resources
+c:\users\oolaoye\documents\visual studio 2015\Projects\SMSSingleThreadService\SMSSingleThreadService\obj\Debug\SMSSingleThreadService.csproj.GenerateResource.Cache
+c:\users\oolaoye\documents\visual studio 2015\Projects\SMSSingleThreadService\SMSSingleThreadService\obj\Debug\SMSSingleThreadService.TrustInfo.xml
+c:\users\oolaoye\documents\visual studio 2015\Projects\SMSSingleThreadService\SMSSingleThreadService\obj\Debug\SMSSingleThreadService.exe.manifest
+c:\users\oolaoye\documents\visual studio 2015\Projects\SMSSingleThreadService\SMSSingleThreadService\obj\Debug\SMSSingleThreadService.application
+c:\users\oolaoye\documents\visual studio 2015\Projects\SMSSingleThreadService\SMSSingleThreadService\obj\Debug\SMSSingleThreadService.exe
+c:\users\oolaoye\documents\visual studio 2015\Projects\SMSSingleThreadService\SMSSingleThreadService\obj\Debug\SMSSingleThreadService.pdb
